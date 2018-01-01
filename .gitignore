@@ -1,7 +1,12 @@
 bin/
 obj/
 objs/
+lib/
 node_modules/
 .vscode/
 *.so
 tester
+.settings/
+target/
+.classpath
+.project
